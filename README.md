@@ -25,14 +25,11 @@ scaling and depth experiments, and a threshold search for a stacking ensemble th
 never touches the test set.
 `Python` `scikit-learn` `XGBoost`
 
-<!--
-  Uncomment when vehicle-classifier is public.
 
 **[Vehicle classifier](https://github.com/alidarviish/vehicle-classifier)**
 8-class vehicle image classifier built on a Swin-Tiny vision transformer, with a
 confidence threshold that sends uncertain images to manual review.
 `PyTorch` `computer vision`
--->
 
 **[Skills Manager](https://github.com/alidarviish/skills-manager)**
 A command-line app for managing people and their skills, with JSON storage.
