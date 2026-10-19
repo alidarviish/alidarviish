@@ -1,7 +1,8 @@
 # Ali Darvish
 
-I work on machine learning and data projects in Python. I like problems where the hard
-part is getting the evaluation right: keeping test data truly unseen, choosing metrics that
+I build AI projects in Python, across machine learning, deep learning and computer
+vision, and I'm currently learning NLP. I like problems where the hard part is
+getting the evaluation right: keeping test data truly unseen, choosing metrics that
 match the real problem, and being clear about what a model cannot do.
 
 ## Projects
