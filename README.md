@@ -14,6 +14,11 @@ with calibration and bootstrap ranges, a bias check shows the model is weaker fo
 patients over 70, and each prediction comes with reasons a clinician can read.
 `Python` `scikit-learn` `pandas`
 
+**[Vehicle classifier](https://github.com/alidarviish/vehicle-classifier)**
+8-class vehicle image classifier built on a Swin-Tiny vision transformer, with a
+confidence threshold that sends uncertain images to manual review.
+`PyTorch` `computer vision`
+
 **[Iran earthquake pipeline](https://github.com/alidarviish/iran-earthquake-pipeline)**
 Downloads every M4+ earthquake in Iran since 2000 from the USGS API, cleans it, stores it
 in SQLite, and builds charts, maps and an analysis of aftershock sequences.
@@ -24,12 +29,6 @@ Fraud detection on data where only 0.17% of transactions are fraud: model compar
 scaling and depth experiments, and a threshold search for a stacking ensemble that
 never touches the test set.
 `Python` `scikit-learn` `XGBoost`
-
-
-**[Vehicle classifier](https://github.com/alidarviish/vehicle-classifier)**
-8-class vehicle image classifier built on a Swin-Tiny vision transformer, with a
-confidence threshold that sends uncertain images to manual review.
-`PyTorch` `computer vision`
 
 **[Skills Manager](https://github.com/alidarviish/skills-manager)**
 A command-line app for managing people and their skills, with JSON storage.
